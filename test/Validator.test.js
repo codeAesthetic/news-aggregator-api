@@ -1,4 +1,4 @@
-const Validator = require("../helper/validation");
+const Validator = require("../src/helper/validation");
 const expect = require("chai").expect;
 
 describe("Validator functionality test", () => {
